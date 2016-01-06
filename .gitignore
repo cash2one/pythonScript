@@ -1,0 +1,6 @@
+*.pyc
+pylog
+__pycache__
+deluser.py
+fsech_cron.py
+config.py
